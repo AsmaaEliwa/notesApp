@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F111B9D-AD1E-48E3-AABB-7AE39BCD92D5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5717E77A-BD2B-4D80-99F1-B77FDE8BEA7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asmaanotes/Views/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "HomeView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5717E77A-BD2B-4D80-99F1-B77FDE8BEA7E - 56cbbc03ed277da1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "5717E77A-BD2B-4D80-99F1-B77FDE8BEA7E - 56cbbc03ed277dc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3CDC797-C6A4-4055-8C7E-0C3689A65342"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asmaanotes/Views/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B3CDC797-C6A4-4055-8C7E-0C3689A65342 - 30b8cae49076dca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Asmaanotes.Subject) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt; in closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Asmaanotes.input, SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt;&gt;)&gt; in Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B3CDC797-C6A4-4055-8C7E-0C3689A65342 - 2e098bd40c0c74fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in closure #1 (Asmaanotes.Subject) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt; in closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Asmaanotes.input, SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt;&gt;)&gt; in Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "B3CDC797-C6A4-4055-8C7E-0C3689A65342 - ed2ad7a57cf9bde2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Asmaanotes.input, SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt;&gt;)&gt; in Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1373">
+               </Location>
+               <Location
+                  uuid = "B3CDC797-C6A4-4055-8C7E-0C3689A65342 - 30b8cae49076df41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Asmaanotes.Subject) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt; in closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Asmaanotes.input, SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt;&gt;)&gt; in Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B3CDC797-C6A4-4055-8C7E-0C3689A65342 - 2e098bd40c0c74d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in closure #1 (Asmaanotes.Subject) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt; in closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Asmaanotes.input, SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Asmaanotes.Subject&gt;, Asmaanotes.Subject, SwiftUI.NavigationLink&lt;SwiftUI.Text, Asmaanotes.SubjectDetailsView&gt;&gt;&gt;)&gt; in Asmaanotes.HomeView.body.getter : some"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78107BE7-0E02-4411-AF7D-62B15D88819F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asmaanotes/Views/SubjectDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SubjectDetailsView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72DF8EF1-1A76-4037-BC17-871BD7491862"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asmaanotes/DataManger.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "addTag(tag:note:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72DF8EF1-1A76-4037-BC17-871BD7491862 - 300ae66274f11af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asmaanotes.DataManger.addTag(tag: Swift.String, note: Asmaanotes.Note) -&gt; ()"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/DataManger.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "573">
+               </Location>
+               <Location
+                  uuid = "72DF8EF1-1A76-4037-BC17-871BD7491862 - 300ae66274f11af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asmaanotes.DataManger.addTag(tag: Swift.String, note: Asmaanotes.Note) -&gt; ()"
+                  moduleName = "Asmaanotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaagamal/Desktop/Asmaanotes/Asmaanotes/DataManger.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "577">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B343299A-508B-441F-B76C-D641B2897775"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asmaanotes/Views/NoteDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
